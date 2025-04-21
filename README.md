@@ -28,12 +28,6 @@ This project was built as a practical exercise in:
 - Understanding and analyzing e-commerce sales data
 - Improving storytelling through data visualization
 
-## 📸 Preview
-
-| Dashboard View 1 | Dashboard View 2 |
-|------------------|------------------|
-| ![View 1](C:\Users\shaffiullakhan786\Desktop\FNP e-commerce sales analysis\1) | ![View 2](./cbac9264-18cf-4464-b5aa-97226f0a091b.png) |
-
 ## 🧠 Insights Uncovered
 
 - Top-selling cities & regions for FNP
